@@ -13,8 +13,9 @@
 name: OpenWrt Builder
 
 on:
-  repository_dispatch:
   workflow_dispatch:
+  repository_dispatch:
+  
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
