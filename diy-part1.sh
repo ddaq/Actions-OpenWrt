@@ -27,3 +27,5 @@ echo 'src-git helloworld https://github.com/fw876/helloworld.git;master' >> feed
 
 # Diskman
 echo 'src-git diskman https://github.com/lisaac/luci-app-diskman.git;master' >> feeds.conf.default
+
+echo 'src-git OpenClash https://github.com/vernesong/OpenClash' >>feeds.conf.default
