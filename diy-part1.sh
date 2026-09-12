@@ -29,4 +29,4 @@
 #echo 'src-git diskman https://github.com/lisaac/luci-app-diskman' >> feeds.conf.default
 
 # OpenClash
-echo 'src-git OpenClash https://github.com/vernesong/OpenClash' >>feeds.conf.default
+#echo 'src-git OpenClash https://github.com/vernesong/OpenClash' >>feeds.conf.default
