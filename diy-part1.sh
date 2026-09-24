@@ -9,6 +9,7 @@
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 #
+rm -f target/linux/mvebu/patches-6.6/902-drivers-mfd-Add-a-driver-for-IEI-WT61P803-PUZZLE-MCU.patch
 
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
