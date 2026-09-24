@@ -10,6 +10,7 @@
 # See /LICENSE for more information.
 #
 rm -f target/linux/mvebu/patches-6.6/902-drivers-mfd-Add-a-driver-for-IEI-WT61P803-PUZZLE-MCU.patch
+rm -f target/linux/mvebu/patches-6.6/903-drivers-hwmon-Add-the-IEI-WT61P803-PUZZLE-HWMON-driv.patch
 
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
